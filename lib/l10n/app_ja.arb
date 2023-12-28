@@ -1,0 +1,7 @@
+{
+  "@@locale": "ja",
+  "gameTitle": "都道府県クイズ",
+  "@gameTitle": {
+    "description": "ゲームのタイトル"
+  }
+}
